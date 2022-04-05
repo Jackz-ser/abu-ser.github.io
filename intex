@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+                <audio src="https://www.mboxdrive.com/12.mp3" autoplay controls> </audio> 
+		<title>Abu ser's Site</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<div id="wrapper">
+			<div id="bg"></div>
+			<div id="overlay"></div>
+			<div id="main">
+
+				<!-- Header -->
+					<header id="header">
+					<p align="center">
+                                                <a href="#"><span class="https://i.imgur.com/DX5mO5l.jpg"><img width='200' height='200' src="https://i.imgur.com/DX5mO5l.jpg" alt=""> </a></span>
+						<h1>Abu ser's Site</h1>
+						<p>ʙᴇ ᴋɪɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴘᴏssɪʙʟᴇ. ɪᴛ ɪs ᴀʟᴡᴀʏ ᴘᴏssɪʙʟᴇ.🙂</p>
+						<nav>
+							<ul>
+								<li><a href="https://wa.me/917025994178" class="icon brands fa-whatsapp"><span class="label">Twitter</span></a></li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<span class="copyright">© ABU; <a href="http://github.com/Afx-Abu">ITZ ME ABU</a>.</span>
+					</footer>
+
+			</div>
+		</div>
+		<script>
+			window.onload = function() { document.body.classList.remove('is-preload'); }
+			window.ontouchmove = function() { return false; }
+			window.onorientationchange = function() { document.body.scrollTop = 0; }
+		</script>
+	</body>
+</html>
